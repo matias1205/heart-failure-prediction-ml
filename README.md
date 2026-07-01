@@ -42,11 +42,13 @@ figures/
 
 report/
   Grupo1-TA-Final.pdf
-```
 
+```
 ## Requisitos
 
 Para instalar las librerías necesarias, ejecutar:
 
 ```bash
 pip install -r requirements.txt
+
+
