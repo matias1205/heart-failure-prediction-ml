@@ -42,6 +42,7 @@ figures/
 
 report/
   Grupo1-TA-Final.pdf
+```
 
 ## Requisitos
 
